@@ -7,34 +7,57 @@
 
     <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="1"/>
+        android:text="@string/_1"/>
     <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="2"/>
+        android:text="@string/_2"/>
     <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="3"/>
+        android:text="@string/_3"/>
     <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="4"/>
+        android:text="@string/_4"/>
     <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="5"/>
+        android:text="@string/_5"/>
     <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="6"/>
+        android:text="@string/_6"/>
     <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="7"/>
+        android:text="@string/_7"/>
     <Button android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="8"/>
+    android:text="@string/_8"/>
     <Button android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="9"/>
+    android:text="@string/_9"/>
     <Button android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="0"/>
+    android:text="@string/_0"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button11"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button12"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button13"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button14"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button15"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ac"/>
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button16"/>
+
+
 
 
 </GridLayout>
